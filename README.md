@@ -1,0 +1,2 @@
+# docs
+Wafeq API Documentation
