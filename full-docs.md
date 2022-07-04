@@ -82,5 +82,5 @@ Another paragrpah inside level 2
 
 
 
-# Authentication
+# Authentication {% #authentication %}
 Use your API key.
