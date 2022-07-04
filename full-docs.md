@@ -72,15 +72,15 @@ A successful request will queue the invoice to be sent and will return the follo
 }
 ```
 
-## This is a level 2 header {% #l2-id %}
+## This is a level 2 header
 This is a paragrpah inside level 2
 
-## Another level 2 header {% #l22-id %}
+## Another level 2 header
 Another paragrpah inside level 2
 
 
 
 
 
-# Authentication {% #authentication %}
+# Authentication
 Use your API key.
