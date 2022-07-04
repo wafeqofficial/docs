@@ -91,7 +91,7 @@ Wafeq expects for the API key to be included in all API requests to the server i
 `Authorization: Api-Key <api_key>`
 
 {% callout %}
-You must replace <code>&lt;api_key&gt;</code> with your organizations API key.
+You must replace `api_key` with your organizations API key.
 {% /callout %}
 
 # E-Invoicing API
