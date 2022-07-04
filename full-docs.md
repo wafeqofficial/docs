@@ -74,7 +74,7 @@ A successful request will queue the invoice to be sent and will return the follo
 
 # Authentication
 
-> To authorize, use this code:
+To authenticate, use this code:
 
 ```shell
 curl --location --request GET 'api_endpoint_here' 
@@ -82,7 +82,7 @@ curl --location --request GET 'api_endpoint_here'
 ```
 
 
-> Make sure to replace `<api_key>` with your API key.
+Make sure to replace `<api_key>` with your API key.
 
 Wafeq uses API keys to allow access to the API.
 
